@@ -64,7 +64,6 @@ In summary, the NebulaWeather App gave us hands-on experience with full-stack co
 
 *live link*:- https://weather-app-by-subhashree-task-1.netlify.app/
 
-
 *output*:-
 
 ![Image](https://github.com/user-attachments/assets/9c0fb916-1cfb-432e-ab84-4ac289a80f0a)
