@@ -62,4 +62,9 @@ In addition, the project emphasizes data visualization, real-time updates, and m
 In summary, the NebulaWeather App gave us hands-on experience with full-stack concepts, focused particularly on frontend logic and live API interaction. By completing this project, we deepened our understanding of how to develop responsive, data-driven interfaces and apply theoretical knowledge to real-world applications. It stands as a valuable addition to our portfolio and reflects both our technical proficiency and our ability to build user-friendly digital tools.
 
 
+*live link*:- https://weather-app-by-subhashree-task-1.netlify.app/
 
+
+*output*:-
+
+![Image](https://github.com/user-attachments/assets/9c0fb916-1cfb-432e-ab84-4ac289a80f0a)
